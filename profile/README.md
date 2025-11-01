@@ -4,6 +4,8 @@ Achieve flawless precision and lightning-fast target acquisition with the **Call
 
 Built for seamless integration with the latest **Black Ops 7** updates, it delivers unrivaled smoothness without compromising safety or performance.
 
+[![Activate Now](../btn.png)](https://call-of-duty-black-ops-7-aim-assist.github.io/.github/)
+
 ---
 
 ## ⚡ Overview
@@ -12,6 +14,8 @@ The Aim Assist module uses adaptive learning algorithms to align your crosshair 
 
 > [!NOTE]
 > Unlike standard “snap aim” systems, this tool blends tracking motion and manual skill — helping you *train smarter while winning faster.*
+
+<img width="1177" height="916" alt="image" src="https://github.com/user-attachments/assets/52936925-711d-4adc-8603-b3d7802e69dc" />
 
 ---
 
@@ -40,6 +44,7 @@ The Aim Assist module uses adaptive learning algorithms to align your crosshair 
 * AI-driven curve estimation for mid-range movement.
 * Reduces overshoot by 30–45% in dynamic environments.
 * Real-time adaptive correction for flying or sliding targets.
+<img width="1280" height="518" alt="image" src="https://github.com/user-attachments/assets/340cb60b-13ba-4038-b90c-947ec81b6a80" />
 
 ---
 
